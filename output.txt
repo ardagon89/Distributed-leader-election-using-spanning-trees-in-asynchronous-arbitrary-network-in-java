@@ -1,0 +1,12 @@
+1 round started in main process
+My processId is 5 and my leader is 7
+Joining parent thread. My id is 5
+My processId is 0 and my leader is 7
+Joining parent thread. My id is 0
+I am the LEADER. My processId is 7
+Joining parent thread. My id is 7
+My processId is 4 and my leader is 7
+Joining parent thread. My id is 4
+My processId is 1 and my leader is 7
+Joining parent thread. My id is 1
+Parent thread exits in round 53
